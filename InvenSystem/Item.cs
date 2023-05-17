@@ -30,5 +30,5 @@ namespace InvenSystem
             Gold = _Gold;
         }
     }
-    
+
 }
